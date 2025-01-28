@@ -13,7 +13,6 @@ This project is a logic circuit solver using c++ which handles multi-level logic
 ## Example input
 The following figure shows the input format examples:
 
-![image](https://github.com/user-attachments/assets/f61e2b39-6566-445e-9aa3-0fec48fb97dd)
-
+![image](https://github.com/user-attachments/assets/fec23b89-5d9a-4bc1-a48b-5fe5d4daad5d)
 
 Each connection in the string must end with 'e'.
